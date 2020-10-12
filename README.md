@@ -1,5 +1,5 @@
 # AR_Basic
-implement basic AR feature (show 3D object in Ar Scene) in an android app
+implement basic AR feature (show 3D object on Ar Scene) in an android app
 # Tech Stack
 Android SDK<br>
 Java<br>
